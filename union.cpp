@@ -11,6 +11,10 @@ int main()
     emp anjali, ayaan;
     anjali.id = 25;
     anjali.sal = 30000;
+    ayaan.sal = 55000;
+    ayaan.id = 33;
+    cout << ayaan.sal << endl;
+    cout << ayaan.id << endl;
     cout << anjali.id << endl;
     cout << anjali.sal << endl;
     return 0;
