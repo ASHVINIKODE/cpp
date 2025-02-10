@@ -17,8 +17,7 @@ int main()
     cout << "bool-->" << sizeof(bool) << endl;
     cout << "string-->" << sizeof(string) << endl;
     cout << "age-->" << sizeof(age) << endl;
-    cout << "struct student-->" << sizeof(struct student) << endl;
-    cout << "rollno-->" << sizeof(int) << endl;
+    cout << "struct student-->" << sizeof(student) << endl;
 
     return 0;
 }

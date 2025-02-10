@@ -9,8 +9,8 @@ int main()
         *pointer = 10;
         cout << *pointer << endl;
         delete pointer;
-        // pointer = nullptr;
-        *pointer = 5;
+        pointer = nullptr;
+        
     }
     else
     {
